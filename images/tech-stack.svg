@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 975.6 975.6" style="enable-background:new 0 0 975.6 975.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#212120;stroke:url(#SVGID_1_);stroke-width:15;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<title>tech-stack_2</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-6.040967e-04" y1="490.22" x2="975.56" y2="490.22" gradientTransform="matrix(1 0 0 -1 0 978)">
+	<stop  offset="0" style="stop-color:#932A8E"/>
+	<stop  offset="0.5" style="stop-color:#FBB040"/>
+	<stop  offset="1" style="stop-color:#ED2079"/>
+</linearGradient>
+<path class="st0" d="M968.1,487.8c0,239.7-175.6,438.4-405.2,474.4c-24.8,3.9-49.9,5.8-75.1,5.8h-1.1c-7.4,0-14.8-0.2-22.1-0.5
+	C308.4,960.1,171.7,878,89.4,756.2l0,0C35.9,676.9,7.3,583.4,7.5,487.8c0-265.3,215-480.3,480.3-480.3S968.1,222.5,968.1,487.8z"/>
+<path class="st1" d="M488.3,635.7v100l193.1-49.9l61.9-16c6.6,0,12-5.4,12-12v-76c0-6.6-5.4-12-12-12l-193.6,50L488.3,635.7z"/>
+<path class="st1" d="M488.3,735.7v-100l-0.5,0.1l-61.9-16l-193.6-50c-6.6,0-12,5.4-12,12v76c0,6.6,5.4,12,12,12l61.9,16l193.6,50
+	L488.3,735.7z"/>
+<path class="st1" d="M488.3,503.6v100l193.1-49.9l61.9-16c6.6,0,12-5.4,12-12v-76c0-6.6-5.4-12-12-12l-193.6,50L488.3,503.6z"/>
+<path class="st1" d="M488.3,603.7v-100l-0.5,0.1l-61.9-16l-193.6-50c-6.6,0-12,5.4-12,12v76c0,6.6,5.4,12,12,12l61.9,16l193.6,50
+	L488.3,603.7z"/>
+<path class="st1" d="M488.3,471.6v-100l-0.5,0.1l-255.5-66c-6.6,0-12,5.4-12,12v76c0,6.6,5.4,12,12,12l61.9,16l193.6,50L488.3,471.6
+	z"/>
+<path class="st1" d="M755.3,393.8v-76c0-6.3-4.9-11.5-11.1-12l0,0l-255.9,65.9v100l193.1-49.9l61.9-16
+	C749.9,405.8,755.3,400.4,755.3,393.8C755.3,393.8,755.3,393.8,755.3,393.8z"/>
+<path class="st2" d="M488.3,371.6l255-65.9c0.3,0,0.6,0,0.8,0h0.2l-256-66l-256,66l255.5,66L488.3,371.6z"/>
+</svg>

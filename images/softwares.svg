@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 958 958">
+<defs>
+<style>.cls-1{fill:#212120;stroke-width:15px;stroke:url(#linear-gradient);}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5,.cls-6{stroke-miterlimit:10;}.cls-2,.cls-3,.cls-6{fill:#fff;}.cls-2,.cls-3,.cls-5{stroke:#212120;}.cls-2,.cls-4,.cls-5,.cls-6{stroke-width:5px;}.cls-3{stroke-width:29px;}.cls-4,.cls-5{fill:none;}.cls-4,.cls-6{stroke:#fff;}</style>
+<linearGradient id="linear-gradient" y1="479" x2="958" y2="479" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#932a8e">
+<animate attributeName="stop-color" values="#932a8e;#fbb040;#ed2079;#932a8e" dur="3s" repeatCount="indefinite"></animate>
+</stop>
+<stop offset="0.5" stop-color="#fbb040">
+<animate attributeName="stop-color" values="#fbb040;#ed2079;#932a8e;#fbb040" dur="3s" repeatCount="indefinite"></animate>
+</stop>
+<stop offset="1" stop-color="#ed2079">
+<animate attributeName="stop-color" values="#ed2079;#932a8e;#fbb040;#ed2079" dur="3s" repeatCount="indefinite"></animate>
+</stop>
+</linearGradient></defs><title>softwares</title>
+<g id="Layer_2" data-name="Layer 2">
+<g id="Layer_1-2" data-name="Layer 1">
+<circle class="cls-1" cx="479" cy="479" r="471.5"/>
+<path class="cls-2" d="M478.88,165.25v627h-51.5l-6.58-69.54a248.45,248.45,0,0,1-74.32-29l-52.15,43.85L220.78,664l42.07-50.86a248.93,248.93,0,0,1-32.56-76.28l-64.91-5.62v-104l64.54-6.1a248.81,248.81,0,0,1,32.3-76.81L220.08,294.2l73.53-73.54,51.75,42.81a248,248,0,0,1,75.55-29.7l6.47-68.52Z"/><path class="cls-3" d="M478.88,625.25a146.5,146.5,0,0,1,0-293"/><line class="cls-4" x1="606.88" y1="404.75" x2="605.34" y2="404.75"/><line class="cls-5" x1="686.88" y1="242.75" x2="686.56" y2="243.08"/><line class="cls-4" x1="606.88" y1="404.75" x2="674.38" y2="337.25"/><line class="cls-4" x1="606.88" y1="404.75" x2="478.88" y2="404.75"/><line class="cls-4" x1="478.88" y1="302.75" x2="587.88" y2="302.75"/><line class="cls-4" x1="663.88" y1="203.75" x2="587.88" y2="302.75"/><circle class="cls-6" cx="663.88" cy="203.75" r="25"/><circle class="cls-6" cx="674.88" cy="336.75" r="25"/><circle class="cls-6" cx="708.88" cy="444.75" r="25"/><line class="cls-4" x1="478.88" y1="444.75" x2="708.88" y2="444.75"/><line class="cls-4" x1="608.88" y1="554.75" x2="607.34" y2="554.75"/><line class="cls-5" x1="688.88" y1="716.75" x2="688.56" y2="716.42"/><line class="cls-4" x1="608.88" y1="554.75" x2="676.38" y2="622.25"/><line class="cls-4" x1="608.88" y1="554.75" x2="480.88" y2="554.75"/><line class="cls-4" x1="480.88" y1="656.75" x2="589.88" y2="656.75"/><line class="cls-4" x1="665.88" y1="755.75" x2="589.88" y2="656.75"/><circle class="cls-6" cx="665.88" cy="755.75" r="25"/><circle class="cls-6" cx="676.88" cy="622.75" r="25"/><circle class="cls-6" cx="710.88" cy="514.75" r="25"/><line class="cls-4" x1="480.88" y1="514.75" x2="710.88" y2="514.75"/></g></g></svg>

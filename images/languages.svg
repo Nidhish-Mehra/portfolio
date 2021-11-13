@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 975.56 975.56">
+<defs><style>.cls-1{fill:#212120;stroke-miterlimit:10;stroke-width:15px;stroke:url(#linear-gradient);}.cls-2{font-size:550px;fill:#fff;font-family:MyriadPro-BoldCond, Myriad Pro;font-weight:700;}</style>
+<linearGradient id="linear-gradient" y1="487.78" x2="975.56" y2="487.78" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#932a8e">
+<animate attributeName="stop-color" values="#932a8e;#fbb040;#ed2079;#932a8e" dur="3s" repeatCount="indefinite"></animate>
+</stop>
+<stop offset="0.5" stop-color="#fbb040">
+<animate attributeName="stop-color" values="#fbb040;#ed2079;#932a8e;#fbb040" dur="3s" repeatCount="indefinite"></animate>
+</stop>
+<stop offset="1" stop-color="#ed2079">
+<animate attributeName="stop-color" values="#ed2079;#932a8e;#fbb040;#ed2079" dur="3s" repeatCount="indefinite"></animate>
+</stop>
+</linearGradient>
+</defs><title>languages</title>
+<g id="Layer_2" data-name="Layer 2">
+<g id="Layer_1-2" data-name="Layer 1">
+<path class="cls-1" d="M968.06,487.78c0,239.72-175.63,438.42-405.22,474.45a483.75,483.75,0,0,1-75.06,5.83h-1.07q-11.13,0-22.13-.55C308.35,960.08,171.66,878,89.41,756.15h0A478.11,478.11,0,0,1,7.5,487.78C7.5,222.52,222.52,7.5,487.78,7.5S968.06,222.52,968.06,487.78Z"/><text class="cls-2" transform="translate(82.98 649.21)">&lt;/&gt;</text></g></g></svg>
